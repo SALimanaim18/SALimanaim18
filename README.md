@@ -1,19 +1,15 @@
-<table>
-<tr>
-<td>
-<pre style="display:inline-block">
-┏━┓┏━┓╻  ╻┏┳┓┏━┓   ┏┓╻┏━┓╻┏┳┓
-┗━┓┣━┫┃  ┃┃┃┃┣━┫   ┃┗┫┣━┫┃┃┃┃
-┗━┛╹ ╹┗━╸╹╹ ╹╹ ╹   ╹ ╹╹ ╹╹╹ ╹
-</pre>
-</td>
-<td style="vertical-align: top; padding-left: 20px;">
-👩‍💻 <strong>Salima Naim – Full Stack & DevOps Enthusiast</strong><br>
-I'm a <strong>5th-year student</strong> at the <strong>École Marocaine des Sciences de l'Ingénieur (EMSI)</strong>, passionate about <strong>Full Stack Web & Mobile Development, DevOps, AI, and Security</strong>.<br>
+<pre style="display:inline-block; font-size:14px; line-height:1.1; white-space: pre; overflow-x:auto;">
+  __        __   _                            _                             ____ _ _   _   _       _                        __ _ _      _ 
+ \ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___    _ __ ___  _   _   / ___(_) |_| | | |_   _| |__    _ __  _ __ ___  / _(_) | ___| |
+  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | '_ ` _ \| | | | | |  _| | __| |_| | | | | '_ \  | '_ \| '__/ _ \| |_| | |/ _ \ |
+   \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | | | | | | |_| | | |_| | | |_|  _  | |_| | |_) | | |_) | | | (_) |  _| | |  __/_|
+    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_| |_|\__, |  \____|_|\__|_| |_|\__,_|_.__/  | .__/|_|  \___/|_| |_|_|\___(_)
+                                                                  |___/                                  |_|                             
 
-</td>
-</tr>
-</table>
+</pre>
+
+# Salima Naim – Full Stack & DevOps Enthusiast
+👩‍💻 **Hi there! I'm Salima Naim** I'm a **5th-year student** at the **École Marocaine des Sciences de l'Ingénieur (EMSI)**, passionate about **Full Stack Web & Mobile Development, DevOps, AI, and Security**. ---
 
 
 ## 🎯 About Me
