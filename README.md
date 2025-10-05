@@ -6,7 +6,7 @@
 
 
 # Salima Naim – Full Stack & DevOps Enthusiast
-👩‍💻 **Hi there! I'm Salima Naim** I'm a **5th-year student** at the **École Marocaine des Sciences de l'Ingénieur (EMSI)**, passionate about **Full Stack Web & Mobile Development, DevOps, AI, and Security**. ---
+👩‍💻 **Hi there! I'm Salima Naim** I'm a **5th-year student** at the **Moroccan Scool of Engineering Sciences (EMSI)**, passionate about **Full Stack Web & Mobile Development, DevOps, AI, and Security**. ---
 
 
 ## 🎯 About Me
