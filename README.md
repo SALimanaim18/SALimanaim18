@@ -124,7 +124,7 @@ I'm a <strong>5th-year student</strong> at the <strong>École Marocaine des Scie
   <a href="mailto:salimanaim18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/salimanaim" >
+  <a href="https://www.linkedin.com/in/salima-naim-a9ab24317/" >
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
@@ -132,8 +132,8 @@ I'm a <strong>5th-year student</strong> at the <strong>École Marocaine des Scie
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SALimanaim18&show_icons=true&theme=dracula" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SALimanaim18&layout=compact&langs_count=4&theme=dracula&include=Java,Python,PHP,JavaScript" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SALimanaim18&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top Languages" />
+
 </div>
 
 ###
