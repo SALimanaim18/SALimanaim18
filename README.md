@@ -133,7 +133,7 @@ I'm a <strong>5th-year student</strong> at the <strong>École Marocaine des Scie
 ## 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SALimanaim18&layout=compact&langs_count=6&theme=dracula" height="160" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=SALimanaim18&show_icons=true&theme=dracula" height="160" alt="GitHub stats" />
 </div>
 
 ###
