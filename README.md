@@ -1,16 +1,20 @@
+<table>
+<tr>
+<td>
+<pre style="display:inline-block">
+┏━┓┏━┓╻  ╻┏┳┓┏━┓   ┏┓╻┏━┓╻┏┳┓
+┗━┓┣━┫┃  ┃┃┃┃┣━┫   ┃┗┫┣━┫┃┃┃┃
+┗━┛╹ ╹┗━╸╹╹ ╹╹ ╹   ╹ ╹╹ ╹╹╹ ╹
+</pre>
+</td>
+<td style="vertical-align: top; padding-left: 20px;">
+👩‍💻 <strong>Salima Naim – Full Stack & DevOps Enthusiast</strong><br>
+I'm a <strong>5th-year student</strong> at the <strong>École Marocaine des Sciences de l'Ingénieur (EMSI)</strong>, passionate about <strong>Full Stack Web & Mobile Development, DevOps, AI, and Security</strong>.<br>
 
-```bash
-╻ ╻┏━╸╻  ┏━╸┏━┓┏┳┓┏━╸   ╺┳╸┏━┓   ┏┳┓╻ ╻   ┏━╸╻╺┳╸╻ ╻╻ ╻┏┓    ┏━┓┏━┓┏━┓┏━╸╻╻  ┏━╸╻
-┃╻┃┣╸ ┃  ┃  ┃ ┃┃┃┃┣╸     ┃ ┃ ┃   ┃┃┃┗┳┛   ┃╺┓┃ ┃ ┣━┫┃ ┃┣┻┓   ┣━┛┣┳┛┃ ┃┣╸ ┃┃  ┣╸ ╹
-┗┻┛┗━╸┗━╸┗━╸┗━┛╹ ╹┗━╸    ╹ ┗━┛   ╹ ╹ ╹    ┗━┛╹ ╹ ╹ ╹┗━┛┗━┛   ╹  ╹┗╸┗━┛╹  ╹┗━╸┗━╸╹                                              
+</td>
+</tr>
+</table>
 
-```
-# Salima Naim – Full Stack & DevOps Enthusiast
-
-👩‍💻 **Hi there! I'm Salima Naim**  
-I'm a **5th-year student** at the **École Marocaine des Sciences de l'Ingénieur (EMSI)**, passionate about **Full Stack Web & Mobile Development, DevOps, AI, and Security**.  
-
----
 
 ## 🎯 About Me
 - 🚀 Building **web and mobile applications** from front-end to back-end.  
@@ -134,7 +138,7 @@ I'm a **5th-year student** at the **École Marocaine des Sciences de l'Ingénieu
 
 ###
 <div align="center">
-<h3 align="left">🔥   My Stats :</h3>
+
 
   <img src="https://streak-stats.demolab.com?user=SALimanaim18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
